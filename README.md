@@ -1,0 +1,1 @@
+# testes-pragma.sql
